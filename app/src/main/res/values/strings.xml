@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeedmapsChallenge</string>
+    <string name="feed_search_hint">Search</string>
+</resources>
