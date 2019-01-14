@@ -1,0 +1,3 @@
+package com.example.nasren.weedmapschallenge.api
+
+const val YELP_API_KEY = "3pd6dVMlE0yG83dtp6SqcKYfNRRS3SoLOV-XOByrUu0xVum3fXLBhCwOIkqWITh7WBHMYfqgzEMhmWqA-szPVWoDHrKZgwcKHVkyLcKv95jfyxc3nX92x66NpEI8XHYx"
